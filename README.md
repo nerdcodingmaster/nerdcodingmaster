@@ -2,9 +2,8 @@
 -  👀 I’m interested in Coding
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on various projects and groups
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: iam only 11 years old and in 6th Grade
+- 📫 To reach me email me on my email: mirzaskilful@gmail.com 
+- ⚡ Fun fact: I am only 11 years old and in 6th Grade
 
 <!---
 nerdcodingmaster/nerdcodingmaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
